@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @korarit
+- 👀 I’m student at sawananan wittaya school
+- 🌱 I’m beginner programmer
