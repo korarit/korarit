@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @korarit
+- 👋 Hi, My Name is Korarit Seangthong and My nickname is Tonkla
 - 👀 I’m student at sawananan wittaya school
 - 🌱 I’m beginner programmer
