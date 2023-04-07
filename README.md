@@ -1,3 +1,3 @@
 - 👋 Hi, My Name is Korarit Seangthong and My nickname is Tonkla
-- 👀 I’m student at sawananan wittaya school in Thailand
-- 🌱 I’m beginner programmer
+- 🌱 I’m beginner programmer PHP , Python , Javascript(fontend , backend) , Lua , R and more
+- I'm 🦆🦆🦆
