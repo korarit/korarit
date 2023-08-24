@@ -3,4 +3,4 @@
 - 💻 I can use chat GPT and google 🤣🤣🤣
 - 🤦‍♂️ I'm 🦆🦆🦆
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korarit&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korarit&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api?username=korarit&theme=algolia&show_icons=true)](https://github.com/korarit)	
