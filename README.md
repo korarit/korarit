@@ -1,6 +1,6 @@
 - 👋 Hi, My Name is Korarit Seangthong and My nickname is Tonkla
   
-- 🌱 I’m beginner PHP , Python , Javascript(fontend , backend) , Lua , R , Windows Form , HTML , CSS and more if i can search on the internet
+- 🌱 I’m beginner PHP (OPP) , Python , Javascript(fontend , backend) , Lua , R , Windows Form , HTML , CSS and more if i can search on the internet
   
 - Framework and library node.js , flask, vue , reactjs , bootstrap 5.x , tailwind css , Line API and more if i can search on the internet
   
