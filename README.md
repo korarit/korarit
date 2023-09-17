@@ -8,5 +8,6 @@
   
 - 💻 I can use chat GPT and google 🤣🤣🤣
 - 🤦‍♂️ I'm 🦆🦆🦆
+- [![wakatime](https://wakatime.com/badge/user/506ed78e-7b93-4e6a-a554-bdf9ef319e25.svg)](https://wakatime.com/@506ed78e-7b93-4e6a-a554-bdf9ef319e25)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korarit&theme=gradient&layout=compact&langs_count=8) [![Korarit status](https://github-readme-stats.vercel.app/api?username=korarit&theme=algolia&show_icons=true)](https://github.com/korarit)	
