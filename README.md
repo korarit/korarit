@@ -8,6 +8,14 @@
   
 - 💻 I can use chat GPT and google 🤣🤣🤣
 - 🤦‍♂️ I'm 🦆🦆🦆
-- Sice Oct 27 , 2022  <t>&nbsp;&nbsp;[![wakatime](https://wakatime.com/badge/user/506ed78e-7b93-4e6a-a554-bdf9ef319e25.svg)](https://wakatime.com/@506ed78e-7b93-4e6a-a554-bdf9ef319e25)</t>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korarit&theme=gradient&layout=compact&langs_count=8) [![Korarit status](https://github-readme-stats.vercel.app/api?username=korarit&theme=algolia&show_icons=true)](https://github.com/korarit)	
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korarit&theme=gradient&layout=compact&lang=8" width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=korarit&theme=algolia&show_icons=true" width="46%"/> 
+</p>
+
+## Wakatime since (22 oct 2022)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thestepklaK&langs_count=8&layout=compact" width="60%"/>
+</p>
