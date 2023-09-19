@@ -17,5 +17,5 @@
 ## Wakatime since (22 oct 2022)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thestepklaK&langs_count=8&layout=compact" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thestepklaK&langs_count=8&layout=compact" width="80%"/>
 </p>
