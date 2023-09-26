@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=korarit&theme=algolia&show_icons=true" width="46%"/> 
 </p>
 
-## Wakatime since (22 oct 2022)
+## Wakatime since (22 oct 2022 and only vs code)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thestepklaK&langs_count=8&layout=compact" width="80%"/>
