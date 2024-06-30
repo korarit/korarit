@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=korarit&theme=algolia&show_icons=true" width="46%"/> 
 </p>
 
-## Wakatime since 22 oct 2022 (time on visual Studio Code) ![wakatime](https://wakatime.com/badge/user/506ed78e-7b93-4e6a-a554-bdf9ef319e25.svg)
+## Wakatime since 22 oct 2022 (time on visual Studio Code) [![wakatime](https://wakatime.com/badge/user/506ed78e-7b93-4e6a-a554-bdf9ef319e25.svg?style=default)](https://wakatime.com/@506ed78e-7b93-4e6a-a554-bdf9ef319e25)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thestepklaK&langs_count=8&layout=compact" width="80%"/>
 </p>
