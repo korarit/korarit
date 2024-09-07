@@ -1,9 +1,12 @@
 - 👋 Hi, My Name is Korarit Seangthong and My nickname is Tonkla
-- 🌱 I’m beginner -> PHP (OPP) , Python , Javascript/TypeScript (fontend , backend) , golang , Lua , R , Windows Form , HTML , CSS and more if i can search on the internet
-- Framework and library -> node.js , ExpressJS, Flask, Fiber , NestJS, Vue , ReactJS , NUXT, Bootstrap 5.x , Tailwind css , Bulma, Line API and more if i can search on the internet
-- DevOps -> vercel , github, cloudflare , microsoft Azure
-- Database -> SQL , mongodb and more if i can search on the internet
+- 🌱 I’m beginner -> PHP (OPP) , Python , Javascript/TypeScript (fontend , backend) , golang , Lua , R , Java , Windows Form , HTML , CSS and more if i can search on the internet
+- Framework and library -> Node.js, BunJS, ExpressJS , Elysia, Flask, Fiber, Laravel, NestJS, Vue , ReactJS, NUXT.JS, NEXT.JS, Bootstrap 5.x , Tailwind css , Bulma, Line API and more if i can search on the internet
+- DevOps -> Render , Vercel , Github , Cloudflare , Nicrosoft Azure
+- Database -> MySQL , PostgreSQL , Mongodb and more if i can search on the internet
 - OS -> Windows, Linux Ubuntu (but Haven't used it for 3 years ago)
+
+- Understand of Microservice with GRPC , JWT , OWSAP Top 10
+- Now Learning About fullstack And NLP 
   
 - 💻 I can use chat GPT and google 🤣🤣🤣
 - 🤦‍♂️ I'm 🦆🦆🦆
