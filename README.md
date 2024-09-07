@@ -5,9 +5,13 @@
 - Database -> MySQL , PostgreSQL , Mongodb and more if i can search on the internet
 - OS -> Windows, Linux Ubuntu (but Haven't used it for 3 years ago)
 
+<br>
+
 - Understand of Microservice with GRPC , JWT , OWSAP Top 10
 - Now Learning About fullstack And NLP 
-  
+
+<br>
+
 - 💻 I can use chat GPT and google 🤣🤣🤣
 - 🤦‍♂️ I'm 🦆🦆🦆
 
