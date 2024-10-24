@@ -1,20 +1,34 @@
-- 👋 Hi, My Name is Korarit Seangthong and My nickname is Tonkla
-- 🌱 I’m beginner -> PHP (OPP) , Python , Javascript/TypeScript (fontend , backend) , golang , Lua , R , Java , Windows Form , HTML , CSS and more if i can search on the internet
-- Framework and library -> Node.js, BunJS, ExpressJS , Elysia, Flask, Fiber, Laravel, NestJS, Vue , ReactJS, NUXT.JS, NEXT.JS, Bootstrap 5.x , Tailwind css , Bulma, Line API and more if i can search on the internet
-- DevOps -> Render , Vercel , Github , Cloudflare , Nicrosoft Azure
-- Database -> MySQL , PostgreSQL , Mongodb and more if i can search on the internet
-- OS -> Windows, Linux Ubuntu (but Haven't used it for 3 years ago)
+# 👋 Hi, My Name is Korarit Seangthong and My nickname is Tonkla
+I'm junior Full-Stack developper 
 
-<br>
+### Programming Language
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,js,ts,go,java,html,css,lua,r,vb&theme=dark)
 
-- Understand of Microservice with GRPC , JWT , OWSAP Top 10
-- Now Learning About fullstack And NLP 
+### Framework
+![My Skills Framework](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,expressjs,flask,elysia,laravel,nestjs,vuejs,react,nuxtjs,nextjs,bootstrap,tailwindcss,bulma,electron&theme=dark) **GO-Fiber**
 
-<br>
+### Libary
+![My Skills Libary](https://go-skill-icons.vercel.app/api/icons?i=prisma,langchain&theme=dark)
 
-- 💻 I can use chat GPT and google 🤣🤣🤣
-- 🤦‍♂️ I'm 🦆🦆🦆
+### Database
+![My Skills Database](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,postgresql,mongodb,redis,&theme=dark)
 
+### DevOps
+![My Skills DevOps](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,docker,render,vercel&theme=dark)
+
+### OS
+![My Skills OS](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu&theme=dark)
+
+
+### Tool
+![My Skills Tool](https://go-skill-icons.vercel.app/api/icons?i=vscode,figma,jira,postman,discord,excel,chatgpt,claude,colab&theme=dark)
+
+### Understand of Microservice with GRPC , OWSAP Top 10 , RESTFul API 
+### Now Learning About fullstack And NLP 
+
+<br/>
+
+## Me Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korarit&theme=gradient&layout=compact&lang=8" width="35%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=korarit&theme=algolia&show_icons=true" width="46%"/> 
