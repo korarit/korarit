@@ -5,7 +5,7 @@ I'm junior Full-Stack developper
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,js,ts,go,java,html,css,lua,r,vb&theme=dark)
 
 ### Framework
-![My Skills Framework](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,expressjs,flask,elysia,laravel,nestjs,vuejs,react,nuxtjs,nextjs,bootstrap,tailwindcss,bulma,electron&theme=dark&perline=11)
+![My Skills Framework](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,expressjs,flask,elysia,laravel,nestjs,vuejs,react,nuxtjs,nextjs,electron,bootstrap,tailwindcss,bulma&theme=dark&perline=11)
 <br/>**GO-Fiber**
 
 ### Libary
@@ -17,15 +17,15 @@ I'm junior Full-Stack developper
 ### DevOps
 ![My Skills DevOps](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,docker,render,vercel&theme=dark)
 
-### OS
+### OS (Ubuntu not use long time ago)
 ![My Skills OS](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu&theme=dark)
 
 
 ### Tool
-![My Skills Tool](https://go-skill-icons.vercel.app/api/icons?i=vscode,figma,jira,postman,discord,excel,chatgpt,claude,colab&theme=dark)
+![My Skills Tool](https://go-skill-icons.vercel.app/api/icons?i=vscode,figma,jira,postman,discord,excel,chatgpt,claude,gemini&theme=dark)
 
 ### Understand of Microservice with GRPC , OWSAP Top 10 , RESTFul API 
-### Now Learning About fullstack And NLP 
+### Now Learning About Full-Stack And NLP 
 
 <br/>
 
