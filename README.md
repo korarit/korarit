@@ -5,8 +5,7 @@ I'm junior Full-Stack developper
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,js,ts,go,java,html,css,lua,r,vb&theme=dark)
 
 ### Framework
-![My Skills Framework](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,expressjs,flask,elysia,fastapi,laravel,nestjs,vuejs,react,nuxtjs,nextjs,electron,bootstrap,tailwindcss,bulma&theme=dark&perline=11)
-<br/>**GO-Fiber**
+![My Skills Framework](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,expressjs,fiber,fastapi,flask,elysia,laravel,nestjs,vuejs,react,nuxtjs,nextjs,electron,bootstrap,tailwindcss,bulma&theme=dark&perline=11)
 
 ### Libary
 ![My Skills Libary](https://go-skill-icons.vercel.app/api/icons?i=prisma,langchain&theme=dark)
