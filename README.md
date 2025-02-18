@@ -5,7 +5,7 @@ I'm junior Full-Stack developper
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,js,ts,go,java,html,css,lua,r,vb&theme=dark)
 
 ### Framework
-![My Skills Framework](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,expressjs,fiber,fastapi,flask,elysia,laravel,nestjs,vuejs,react,nuxtjs,nextjs,electron,bootstrap,tailwindcss,bulma&theme=dark&perline=11)
+![My Skills Framework](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,expressjs,fiber,fastapi,flask,elysia,laravel,nestjs,vuejs,react,nuxtjs,nextjs,electron,capacitor,bootstrap,tailwindcss,bulma&theme=dark&perline=11)
 
 ### Libary
 ![My Skills Libary](https://go-skill-icons.vercel.app/api/icons?i=prisma,langchain&theme=dark)
@@ -14,7 +14,7 @@ I'm junior Full-Stack developper
 ![My Skills Database](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,postgresql,mongodb,redis,&theme=dark)
 
 ### DevOps
-![My Skills DevOps](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,docker,render,vercel&theme=dark)
+![My Skills DevOps](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,docker,render,vercel,aws,firebase&theme=dark)
 
 ### OS (Ubuntu not use long time ago)
 ![My Skills OS](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu&theme=dark)
