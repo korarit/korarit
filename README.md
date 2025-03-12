@@ -16,7 +16,7 @@ I'm junior Full-Stack developper
 ### DevOps
 ![My Skills DevOps](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,docker,render,vercel,aws,firebase&theme=dark)
 
-### OS (Ubuntu not use long time ago)
+### OS
 ![My Skills OS](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu&theme=dark)
 
 
