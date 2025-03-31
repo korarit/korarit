@@ -1,11 +1,43 @@
 # 👋 Hi, My Name is Korarit Seangthong and My nickname is Tonkla
-I'm junior Full-Stack developper 
+I'm junior Full-Stack developper
 
+## Awards and Experience
+
+### 2nd Web Application at ICT University of Phyao - 2025
+
+เป็นการแข่งขันโปรเจคด้าน web application ภายในคณะเทคโลยีสารสนเทศและการสื่อสาร (ict) มหาวิทยาลัยพะเยา โดยได้รางวัล อันดับ 2 จากทีมกว่า 30 ทีมจากทั้งคณะ โดยเป็นการพัฒนา web application แบบ social media ที่ทำการติดภาวะอารมณ์ จาก emoji mood และ text ที่ทำการโพสต์ มาผ่านวิธีการคำนวน และ สกัดคำมาสร้างประโยคยอดนิยม
+
+It was a web application project competition within the Faculty of Information and Communication Technology (ICT) at the University of Phayao, where we won 2nd place among more than 29 teams from the entire faculty. The project involved developing a social media-style web application that detects emotional states based on posted emoji moods and text. It analyzes and extracts words to generate popular sentences using computational methods.
+
+<p align="center">
+  <img src="https://i.imgur.com/a3NS0Yc.png" width="25%"/>
+</p>
+
+### 2nd Mobile Application at ICT University of Phyao - 2025
+เป็นการแข่งขันโปรเจคด้าน web application ภายในคณะเทคโลยีสารสนเทศและการสื่อสาร (ict) มหาวิทยาลัยพะเยา โดยได้รางวัล อันดับ 2 จากทีมกว่า 12 ทีมจากทั้งคณะ โดยเป็นการพัฒนา cross-platform (Android , PWA . Web) สำหรับการฝึกการเขียนโปรแกรมผ่านการทำโจทย์คล้าย ๆ อย่าง leetcode โดยมีการนำ LLM มาช่วยตรวจคำตอบ
+
+It was a web application project competition within the Faculty of Information and Communication Technology (ICT) at the University of Phayao, where we won 2nd place among more than 10 teams from the entire faculty. The project involved developing a cross-platform application (Android, PWA, Web) for practicing programming through problem-solving, similar to LeetCode, with LLM integration for answer evaluation.
+
+<p align="center">
+  <img src="https://i.imgur.com/Z2SXsbO.png" width="25%"/>
+</p>
+
+### BorntoDev Dev Init 2 - 2024
+เป็นค่ายออนไลน์สำหรับฝึกประสบการณ์การเขียนโปรแกรมจากการทำโปรเจค และ ได้เขียนบทความออนไลน์ จำนวน 3 บทความ โดยผมได้รับคัดเลือกจากผู้สมัครทั่วประเทศไทย สำหรับทั้ง 3 บทความ มีคนเข้าอ่านมากกว่า 4000 ครั้ง
+
+It was an online camp for gaining programming experience through project-based learning. I also wrote three online articles and was selected from applicants across Thailand. Collectively, these articles have been read over 4,000 times.
+<p align="center">
+  <img src="https://www.borntodev.com/wp-content/uploads/2024/04/sql-injection-blog-600x400.webp" width="30%"/>
+  <img src="https://www.borntodev.com/wp-content/uploads/2024/04/vercel-exp-blog-600x400.webp" width="30%"/>
+  <img src="https://www.borntodev.com/wp-content/uploads/2024/04/rate-limit-blog-600x400.webp" width="30%"/>
+</p>
+
+## Stack
 ### Programming Language
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,js,ts,go,java,html,css,lua,r,vb&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,js,ts,go,java,dart,html,css,lua,r,vb&theme=dark)
 
 ### Framework
-![My Skills Framework](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,expressjs,fiber,fastapi,flask,elysia,laravel,nestjs,vuejs,react,nuxtjs,nextjs,electron,capacitor,bootstrap,tailwindcss,bulma&theme=dark&perline=11)
+![My Skills Framework](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,expressjs,fiber,fastapi,flask,elysia,laravel,nestjs,vuejs,react,nuxtjs,nextjs,electron,capacitor,flutter,bootstrap,tailwindcss,bulma&theme=dark&perline=11)
 
 ### Libary
 ![My Skills Libary](https://go-skill-icons.vercel.app/api/icons?i=prisma,langchain&theme=dark)
