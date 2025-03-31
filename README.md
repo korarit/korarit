@@ -5,7 +5,7 @@ I'm junior Full-Stack developper
 
 ### 2nd Web Application at ICT University of Phyao - 2025
 
-เป็นการแข่งขันโปรเจคด้าน web application ภายในคณะเทคโลยีสารสนเทศและการสื่อสาร (ict) มหาวิทยาลัยพะเยา โดยได้รางวัล อันดับ 2 จากทีมกว่า 30 ทีมจากทั้งคณะ โดยเป็นการพัฒนา web application แบบ social media ที่ทำการติดภาวะอารมณ์ จาก emoji mood และ text ที่ทำการโพสต์ มาผ่านวิธีการคำนวน และ สกัดคำมาสร้างประโยคยอดนิยม
+เป็นการแข่งขันโปรเจคด้าน web application ภายในคณะเทคโลยีสารสนเทศและการสื่อสาร (ict) มหาวิทยาลัยพะเยา โดยได้รางวัล อันดับ 2 จากทีมกว่า 29 ทีมจากทั้งคณะ โดยเป็นการพัฒนา web application แบบ social media ที่ทำการติดภาวะอารมณ์ จาก emoji mood และ text ที่ทำการโพสต์ มาผ่านวิธีการคำนวน และ สกัดคำมาสร้างประโยคยอดนิยม
 
 It was a web application project competition within the Faculty of Information and Communication Technology (ICT) at the University of Phayao, where we won 2nd place among more than 29 teams from the entire faculty. The project involved developing a social media-style web application that detects emotional states based on posted emoji moods and text. It analyzes and extracts words to generate popular sentences using computational methods.
 
@@ -14,7 +14,7 @@ It was a web application project competition within the Faculty of Information a
 </p>
 
 ### 2nd Mobile Application at ICT University of Phyao - 2025
-เป็นการแข่งขันโปรเจคด้าน web application ภายในคณะเทคโลยีสารสนเทศและการสื่อสาร (ict) มหาวิทยาลัยพะเยา โดยได้รางวัล อันดับ 2 จากทีมกว่า 12 ทีมจากทั้งคณะ โดยเป็นการพัฒนา cross-platform (Android , PWA . Web) สำหรับการฝึกการเขียนโปรแกรมผ่านการทำโจทย์คล้าย ๆ อย่าง leetcode โดยมีการนำ LLM มาช่วยตรวจคำตอบ
+เป็นการแข่งขันโปรเจคด้าน web application ภายในคณะเทคโลยีสารสนเทศและการสื่อสาร (ict) มหาวิทยาลัยพะเยา โดยได้รางวัล อันดับ 2 จากทีมกว่า 10 ทีมจากทั้งคณะ โดยเป็นการพัฒนา cross-platform (Android , PWA . Web) สำหรับการฝึกการเขียนโปรแกรมผ่านการทำโจทย์คล้าย ๆ อย่าง leetcode โดยมีการนำ LLM มาช่วยตรวจคำตอบ
 
 It was a web application project competition within the Faculty of Information and Communication Technology (ICT) at the University of Phayao, where we won 2nd place among more than 10 teams from the entire faculty. The project involved developing a cross-platform application (Android, PWA, Web) for practicing programming through problem-solving, similar to LeetCode, with LLM integration for answer evaluation.
 
