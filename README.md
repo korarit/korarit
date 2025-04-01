@@ -11,7 +11,9 @@ I'm junior Full-Stack developper
 It was a web application project competition within the Faculty of Information and Communication Technology (ICT) at the University of Phayao, where we won 2nd place among more than 29 teams from the entire faculty. The project involved developing a social media-style web application that detects emotional states based on posted emoji moods and text. It analyzes and extracts words to generate popular sentences using computational methods.
 
 <p align="center">
+  <a href="https://www.facebook.com/share/1YzXf5UzDX/" target="_blank">
   <img src="https://i.imgur.com/a3NS0Yc.png" width="25%"/>
+  </a>
 </p>
 
 ### 2nd Mobile Application at ICT University of Phayao - 2025
@@ -20,7 +22,9 @@ It was a web application project competition within the Faculty of Information a
 It was a web application project competition within the Faculty of Information and Communication Technology (ICT) at the University of Phayao, where we won 2nd place among more than 10 teams from the entire faculty. The project involved developing a cross-platform application (Android, PWA, Web) for practicing programming through problem-solving, similar to LeetCode, with LLM integration for answer evaluation.
 
 <p align="center">
+  <a href="https://www.facebook.com/share/16G3m2nhKs/" target="_blank">
   <img src="https://i.imgur.com/Z2SXsbO.png" width="25%"/>
+  </a>
 </p>
 
 ### BorntoDev Dev Init 2 - 2024
