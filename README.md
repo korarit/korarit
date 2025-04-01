@@ -19,7 +19,9 @@ It was a web application project competition within the Faculty of Information a
 It was a web application project competition within the Faculty of Information and Communication Technology (ICT) at the University of Phayao, where we won 2nd place among more than 10 teams from the entire faculty. The project involved developing a cross-platform application (Android, PWA, Web) for practicing programming through problem-solving, similar to LeetCode, with LLM integration for answer evaluation.
 
 <p align="center">
+  <a href="https://i.imgur.com/Z2SXsbO.png">
   <img src="https://i.imgur.com/Z2SXsbO.png" width="25%"/>
+  </a>
 </p>
 
 ### [BorntoDev Dev Init 2 - 2024](https://www.borntodev.com/author/krtza1/)
