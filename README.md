@@ -59,8 +59,8 @@ It was an online camp for gaining programming experience through project-based l
 ### Tool
 ![My Skills Tool](https://go-skill-icons.vercel.app/api/icons?i=vscode,figma,jira,postman,discord,excel,chatgpt,claude,gemini&theme=dark)
 
-### Understand of Microservice with GRPC , OWSAP Top 10 , RESTFul API 
-### Now Learning About Full-Stack And NLP 
+### Understand of Microservice with GRPC , OWSAP Top 10 , RESTFul API , Rag for LLM 
+### Now Learning About Mobile Dev, Full-Stack , NLP , AI Agent , n8n 
 
 <br/>
 
