@@ -27,9 +27,9 @@ It was a web application project competition within the Faculty of Information a
 </p>
 
 ### [BorntoDev Dev Init 2 - 2024](https://www.borntodev.com/author/krtza1/)
-เป็นค่ายออนไลน์สำหรับฝึกประสบการณ์การเขียนโปรแกรมจากการทำโปรเจค และ ได้เขียนบทความออนไลน์ จำนวน 3 บทความ โดยผมได้รับคัดเลือกจากผู้สมัครทั่วประเทศไทย สำหรับทั้ง 3 บทความ มีคนเข้าอ่านมากกว่า 4000 ครั้ง
+เป็นค่ายออนไลน์สำหรับฝึกประสบการณ์การเขียนโปรแกรมจากการทำโปรเจค และ ได้เขียนบทความออนไลน์ จำนวน 3 บทความ โดยผมได้รับคัดเลือกจากผู้สมัครทั่วประเทศไทย สำหรับทั้ง 3 บทความ มีคนเข้าอ่านมากกว่า 5000 ครั้ง
 
-It was an online camp for gaining programming experience through project-based learning. I also wrote three online articles and was selected from applicants across Thailand. Collectively, these articles have been read over 4,000 times.
+It was an online camp for gaining programming experience through project-based learning. I also wrote three online articles and was selected from applicants across Thailand. Collectively, these articles have been read over 5,000 times.
 <p align="center">
   <img src="https://www.borntodev.com/wp-content/uploads/2024/04/sql-injection-blog-600x400.webp" width="30%"/>
   <img src="https://www.borntodev.com/wp-content/uploads/2024/04/vercel-exp-blog-600x400.webp" width="30%"/>
