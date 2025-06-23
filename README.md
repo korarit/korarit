@@ -4,6 +4,12 @@ I'm junior Full-Stack developper
 
 ## Awards and Experience
 
+### 2nd and 3rd n8n Automate Workflow hackathon and Sales Material hackathon at Botnoi Group - 2025
+<p align="center">
+  <img src="https://img2.pic.in.th/pic/Screenshot-2025-06-23-100715.jpg" width="30%"/>
+  <img src="https://img5.pic.in.th/file/secure-sv1/Screenshot-2025-06-23-100736.jpg" width="30%"/>
+</p>
+
 ### [2nd Web Application at ICT University of Phayao - 2025](https://www.facebook.com/share/1YzXf5UzDX/)
 เป็นการแข่งขันโปรเจคด้าน web application ภายในคณะเทคโลยีสารสนเทศและการสื่อสาร (ict) มหาวิทยาลัยพะเยา โดยได้รางวัล อันดับ 2 จากทีมกว่า 29 ทีมจากทั้งคณะ โดยเป็นการพัฒนา web application แบบ social media ที่ทำการติดภาวะอารมณ์ จาก emoji mood และ text ที่ทำการโพสต์ มาผ่านวิธีการคำนวน และ สกัดคำมาสร้างประโยคยอดนิยม
 
