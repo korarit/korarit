@@ -4,7 +4,7 @@ I'm junior Full-Stack developper
 
 ## Awards and Experience
 
-### 2nd and 3rd n8n Automate Workflow hackathon and Sales Material hackathon at Botnoi Group - 2025
+### 2nd and 3rd Sales Material hackathon and n8n Automate Workflow hackathon at Botnoi Group - 2025
 <p align="center">
   <img src="https://img2.pic.in.th/pic/Screenshot-2025-06-23-100715.jpg" width="30%"/>
   <img src="https://img5.pic.in.th/file/secure-sv1/Screenshot-2025-06-23-100736.jpg" width="30%"/>
