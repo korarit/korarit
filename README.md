@@ -22,7 +22,7 @@ It was a web application project competition within the Faculty of Information a
 </p>
 
 ### [2nd Mobile Application at ICT University of Phayao - 2025](https://www.facebook.com/share/16G3m2nhKs/)
-เป็นการแข่งขันโปรเจคด้าน web application ภายในคณะเทคโลยีสารสนเทศและการสื่อสาร (ict) มหาวิทยาลัยพะเยา โดยได้รางวัล อันดับ 2 จากทีมกว่า 10 ทีมจากทั้งคณะ โดยเป็นการพัฒนา cross-platform (Android , PWA . Web) สำหรับการฝึกการเขียนโปรแกรมผ่านการทำโจทย์คล้าย ๆ อย่าง leetcode โดยมีการนำ LLM มาช่วยตรวจคำตอบ
+เป็นการแข่งขันโปรเจคด้าน Mobile application ภายในคณะเทคโลยีสารสนเทศและการสื่อสาร (ict) มหาวิทยาลัยพะเยา โดยได้รางวัล อันดับ 2 จากทีมกว่า 10 ทีมจากทั้งคณะ โดยเป็นการพัฒนา cross-platform (Android , PWA . Web) สำหรับการฝึกการเขียนโปรแกรมผ่านการทำโจทย์คล้าย ๆ อย่าง leetcode โดยมีการนำ LLM มาช่วยตรวจคำตอบ
 
 It was a web application project competition within the Faculty of Information and Communication Technology (ICT) at the University of Phayao, where we won 2nd place among more than 10 teams from the entire faculty. The project involved developing a cross-platform application (Android, PWA, Web) for practicing programming through problem-solving, similar to LeetCode, with LLM integration for answer evaluation.
 
