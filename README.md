@@ -44,7 +44,7 @@ It was an online camp for gaining programming experience through project-based l
 
 ## Stack
 ### Programming Language
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,js,ts,go,java,dart,html,css,lua,r,vb&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,js,ts,go,java,dart,html,css&theme=dark)
 
 ### Framework
 ![My Skills Framework](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,expressjs,fiber,fastapi,flask,elysia,laravel,nestjs,vuejs,react,nuxtjs,nextjs,electron,capacitor,flutter,bootstrap,tailwindcss,bulma&theme=dark&perline=11)
