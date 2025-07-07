@@ -16,8 +16,9 @@ I'm junior Full-Stack developper
 It was a web application project competition within the Faculty of Information and Communication Technology (ICT) at the University of Phayao, where we won 2nd place among more than 29 teams from the entire faculty. The project involved developing a social media-style web application that detects emotional states based on posted emoji moods and text. It analyzes and extracts words to generate popular sentences using computational methods.
 
 <p align="center">
+  <img src="https://img2.pic.in.th/pic/image1b5f172972411ceb.png" width="45%"/>
   <a href="https://i.imgur.com/a3NS0Yc.png">
-  <img src="https://i.imgur.com/a3NS0Yc.png" width="25%"/>
+    <img src="https://i.imgur.com/a3NS0Yc.png" width="25%"/>
   </a>
 </p>
 
@@ -27,6 +28,7 @@ It was a web application project competition within the Faculty of Information a
 It was a web application project competition within the Faculty of Information and Communication Technology (ICT) at the University of Phayao, where we won 2nd place among more than 10 teams from the entire faculty. The project involved developing a cross-platform application (Android, PWA, Web) for practicing programming through problem-solving, similar to LeetCode, with LLM integration for answer evaluation.
 
 <p align="center">
+  <img src="https://img5.pic.in.th/file/secure-sv1/imagedc80f588589fa9b9.png" width="45%"/>
   <a href="https://i.imgur.com/Z2SXsbO.png">
   <img src="https://i.imgur.com/Z2SXsbO.png" width="25%"/>
   </a>
