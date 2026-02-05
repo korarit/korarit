@@ -35,7 +35,7 @@ It was a web application project competition within the Faculty of Information a
 </p>
 
 ### [BorntoDev Dev Init 2 - 2024](https://www.borntodev.com/author/krtza1/)
-เป็นค่ายออนไลน์สำหรับฝึกประสบการณ์การเขียนโปรแกรมจากการทำโปรเจค และ ได้เขียนบทความออนไลน์ จำนวน 3 บทความ โดยผมได้รับคัดเลือกจากผู้สมัครทั่วประเทศไทย สำหรับทั้ง 3 บทความ มีคนเข้าอ่านมากกว่า 5000 ครั้ง
+เป็นค่ายออนไลน์สำหรับฝึกประสบการณ์การเขียนโปรแกรมจากการทำโปรเจค และ ได้เขียนบทความออนไลน์ จำนวน 3 บทความ โดยผมได้รับคัดเลือกจากผู้สมัครทั่วประเทศไทย สำหรับทั้ง 3 บทความ มีคนเข้าอ่านมากกว่า 6000 ครั้ง
 
 It was an online camp for gaining programming experience through project-based learning. I also wrote three online articles and was selected from applicants across Thailand. Collectively, these articles have been read over 5,000 times.
 <p align="center">
@@ -65,7 +65,7 @@ It was an online camp for gaining programming experience through project-based l
 
 
 ### Tool
-![My Skills Tool](https://go-skill-icons.vercel.app/api/icons?i=vscode,figma,jira,postman,discord,excel,chatgpt,claude,gemini&theme=dark)
+![My Skills Tool](https://go-skill-icons.vercel.app/api/icons?i=grafana,vscode,figma,jira,postman,discord,excel,chatgpt,claude,gemini&theme=dark)
 
 ### Understand of Microservice with GRPC , OWSAP Top 10 , RESTFul API , Rag for LLM 
 ### Now Learning About Mobile Dev, Full-Stack , NLP , AI Agent , n8n 
