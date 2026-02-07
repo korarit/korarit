@@ -10,6 +10,18 @@ I'm junior Full-Stack developper
   <img src="https://img5.pic.in.th/file/secure-sv1/Screenshot-2025-06-23-100736.jpg" width="30%"/>
 </p>
 
+### Honorable Mention Project Application for Health at ICT University of Phayao - 2025
+เป็นการแข่งขันโปรเจค Application ทางการช่วยเรื่องด้านสุขภาพ คนพิการ ผู้สูงอายุ ภายในคณะเทคโลยีสารสนเทศและการสื่อสาร (ict) มหาวิทยาลัยพะเยา โดยได้รางวัล ชมเชย โดยเป็นการพัฒนา Platfrom สถานีตรวจสุขภาพผู้สูงอายุ ประกอบไปด้วยการเชื่อมต่อเครื่องวัดความดัน และ เครื่องชั่งน้ำหนัก เพื่อวัดค่า ๆ ต่างนำไปบันทึก และ ทำการแปรผลด้วย AI Agent ที่ Base on Gemini-2.5-pro โดยมีการทดลองใช้งานจริงที่เทศบาลตำบลเชียงม่วน จังหวัดพะเยา โดยโครงการได้รับงบประมาณสนับสนุนจาก NIA และ สกสว โดยผมทำงานภายใต้การกำกับจากอาจารย์เพื่อพัฒนาโปรเจคดังเกล่าให้เป็นไปตามความต้องการของผู้ใช้
+
+Representing the School of ICT, University of Phayao, I developed an Honorable Mention-winning health platform for the elderly that integrates blood pressure and weight sensors with a Gemini-2.5-Pro AI Agent, field-tested at Chiang Muan Municipality and funded by NIA and TSRI through UPITI, all while working under faculty supervision to ensure the project met specific user requirements.
+
+<p align="center">
+  <img src="https://i.ibb.co/HTPVF41m/Screenshot-7-2-2026-235141.jpg" width="22%" border="0">
+  <img src="https://i.ibb.co/svSJXr2t/Screenshot-7-2-2026-23385-iservice-up-ac-th.jpg" width="45%">
+  <img src="https://i.ibb.co/G3WX9gJ1/image.png" width="24%">
+</p>
+
+
 ### [2nd Web Application at ICT University of Phayao - 2025](https://www.facebook.com/share/1YzXf5UzDX/)
 เป็นการแข่งขันโปรเจคด้าน web application ภายในคณะเทคโลยีสารสนเทศและการสื่อสาร (ict) มหาวิทยาลัยพะเยา โดยได้รางวัล อันดับ 2 จากทีมกว่า 29 ทีมจากทั้งคณะ โดยเป็นการพัฒนา web application แบบ social media ที่ทำการติดภาวะอารมณ์ จาก emoji mood และ text ที่ทำการโพสต์ มาผ่านวิธีการคำนวน และ สกัดคำมาสร้างประโยคยอดนิยม
 
@@ -17,9 +29,7 @@ It was a web application project competition within the Faculty of Information a
 
 <p align="center">
   <img src="https://img2.pic.in.th/pic/image1b5f172972411ceb.png" width="45%"/>
-  <a href="https://i.imgur.com/a3NS0Yc.png">
-    <img src="https://i.imgur.com/a3NS0Yc.png" width="25%"/>
-  </a>
+  <img src="https://i.imgur.com/a3NS0Yc.png" width="25%"/>
 </p>
 
 ### [2nd Mobile Application at ICT University of Phayao - 2025](https://www.facebook.com/share/16G3m2nhKs/)
@@ -29,9 +39,7 @@ It was a web application project competition within the Faculty of Information a
 
 <p align="center">
   <img src="https://img5.pic.in.th/file/secure-sv1/imagedc80f588589fa9b9.png" width="45%"/>
-  <a href="https://i.imgur.com/Z2SXsbO.png">
   <img src="https://i.imgur.com/Z2SXsbO.png" width="25%"/>
-  </a>
 </p>
 
 ### [BorntoDev Dev Init 2 - 2024](https://www.borntodev.com/author/krtza1/)
