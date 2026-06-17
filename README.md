@@ -4,7 +4,7 @@ I'm junior Full-Stack developper
 
 ## Experience
 #### [June 2026 - Current] Vidyasirimedhi Institute of Science & Technology Intership
-นักศึกษาฝึกงาน Software Engineer และ Research ใน BRAIN-Interfaces Lab School of Information Science and Technology 
+นักศึกษาฝึกงาน Software Engineer ใน BRAIN-Interfaces Lab School of Information Science and Technology 
 
 
 #### [November 2025 - February 2026] National Astronomical Research Institute of Thailand 
