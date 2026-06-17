@@ -2,7 +2,21 @@
 I'm junior Full-Stack developper
 #### Me Website Portfolio -> https://cv.korarit.xyz/
 
-## Awards and Experience
+## Experience
+#### [June 2026 - Current] Vidyasirimedhi Institute of Science & Technology Intership
+นักศึกษาฝึกงาน Software Engineer และ Research ใน BRAIN-Interfaces Lab School of Information Science and Technology 
+
+
+#### [November 2025 - February 2026] National Astronomical Research Institute of Thailand 
+นักศึกษาฝึกงาน Software Engineer ใน ศูนย์วิศวกรรมเทคโนโลยีดาราศาสตร์วิทยุ พัฒนาระบบสำหรับแสดงผลข้อมูลคลื่นความถี่วิทยุทางดาราสตร์ที่ใช้ไฟล์ Mbfits ที่ผ่านการประมวลผลโดยระบบหอสังเกตการณ์วิทยุแห่งชาติ โดยพัฒนา data pipeline ให้สามารถดักจับการเสร็จสิ้นกระบวนการทำงานของหอสังเกตการณ์วิทยุแห่งชาติได้
+
+
+#### Feb 2025 - June 2025] Botnoi
+นักศึกษาฝึกงาน Mobile Developper รับหน้าที่ไนการพัฒนา feature ใน Application ของ Botnoi ประกอบไปด้วย
+- [Botnoi Voice - Text to Speech](https://play.google.com/store/apps/details?id=com.mobile.botnoivoice&hl=th) ทำการแก้ไขบัค และ ทำ feature redeem คูปอง
+- [AI Friend Hub](https://play.google.com/store/apps/details?id=com.botnoimobile.aifriendhub&hl=th) พัฒนาในส่วนของการ chat กับ AI ทั้ง Frontend และ Backend รวมทั้งระบบ payment และ การตัด point
+ 
+## Awards
 
 ### 2nd and 3rd Sales Material hackathon and n8n Automate Workflow hackathon at Botnoi Group - 2025
 <p align="center">
