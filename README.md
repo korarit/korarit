@@ -3,7 +3,7 @@ I'm junior Full-Stack developper
 #### Me Website Portfolio -> https://cv.korarit.xyz/
 
 ## Experience
-#### [June 2026 - Current] Vidyasirimedhi Institute of Science & Technology Intership
+#### [June 2026 - Current] Vidyasirimedhi Institute of Science & Technology
 นักศึกษาฝึกงาน Software Engineer ใน BRAIN-Interfaces Lab School of Information Science and Technology 
  - [FitSloth](https://www.fitsloth.co.th/) บริษัท partner กับทาง Lab ทำหน้าที่แก้ไข Issue และพัฒนา Feature ต่าง ๆ ในระบบ CRM และ Application
 
