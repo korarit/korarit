@@ -1,7 +1,7 @@
 # 👋 Hi, My Name is Korarit Seangthong
 I'm junior Full-Stack developper
 #### Me Website Portfolio -> https://cv.korarit.xyz/
-![wakatime](https://wakatime.com/badge/user/506ed78e-7b93-4e6a-a554-bdf9ef319e25.svg)
+time on vscode ![wakatime](https://wakatime.com/badge/user/506ed78e-7b93-4e6a-a554-bdf9ef319e25.svg)
 
 ## Experience
 #### [June 2026 - Current] Vidyasirimedhi Institute of Science & Technology
