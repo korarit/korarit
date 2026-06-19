@@ -5,13 +5,15 @@ I'm junior Full-Stack developper
 ## Experience
 #### [June 2026 - Current] Vidyasirimedhi Institute of Science & Technology Intership
 นักศึกษาฝึกงาน Software Engineer ใน BRAIN-Interfaces Lab School of Information Science and Technology 
+ - [FitSloth](https://www.fitsloth.co.th/) บริษัท partner กับทาง Lab ทำหน้าที่แก้ไข Issue และพัฒนา Feature ต่าง ๆ ในระบบ CRM และ Application
 
-
-#### [November 2025 - February 2026] National Astronomical Research Institute of Thailand 
+#### [November 2025 - February 2026] National Astronomical Research Institute of Thailand
 นักศึกษาฝึกงาน Software Engineer ใน ศูนย์วิศวกรรมเทคโนโลยีดาราศาสตร์วิทยุ พัฒนาระบบสำหรับแสดงผลข้อมูลคลื่นความถี่วิทยุทางดาราสตร์ที่ใช้ไฟล์ Mbfits ที่ผ่านการประมวลผลโดยระบบหอสังเกตการณ์วิทยุแห่งชาติ โดยพัฒนา data pipeline ให้สามารถดักจับการเสร็จสิ้นกระบวนการทำงานของหอสังเกตการณ์วิทยุแห่งชาติได้
+- [Mbfits Graph](https://gitlab.com/narit-raoc/internship/2026/mbfits_graph) พัฒนาระบบสำหรับแสดงผลข้อมูลคลื่นความถี่วิทยุทางดาราสตร์โดยใช้ Backend เป็น FastAPI ร่วมกับ Redis และ InfluxDB แสดงผลบน Grafana
+- [Nash GUI](https://gitlab.com/narit-raoc/internship/2026/nash_gui) พัฒนาระบบสำหรับสร้าง Python Script สำหรับควบคุมหอสังเกตการณ์วิทยุแห่งชาติ เนื่องจากปัจจุบันใช้งาน [tnrt tcs](https://narit-raoc.gitlab.io/tcs/tnrt/) ที่เป็น script base ไม่มี GUI ในส่วนของ backend โดยใช้ Backend เป็น FastAPI ร่วมกับ MariaDB
 
 
-#### Feb 2025 - June 2025] Botnoi
+#### [Feb 2025 - June 2025] Botnoi
 นักศึกษาฝึกงาน Mobile Developper รับหน้าที่ไนการพัฒนา feature ใน Application ของ Botnoi ประกอบไปด้วย
 - [Botnoi Voice - Text to Speech](https://play.google.com/store/apps/details?id=com.mobile.botnoivoice&hl=th) ทำการแก้ไขบัค และ ทำ feature redeem คูปอง
 - [AI Friend Hub](https://play.google.com/store/apps/details?id=com.botnoimobile.aifriendhub&hl=th) พัฒนาในส่วนของการ chat กับ AI ทั้ง Frontend และ Backend รวมทั้งระบบ payment และ การตัด point
